@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Top Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&section=header&text=Cloud%20%26%20AI%20Ops%20Command%20Center&fontSize=30&fontColor=ffffff&fontAlignY=38&desc=Secure%20Infrastructure%20%E2%80%A2%20Guardrailed%20AI%20Agents%20%E2%80%A2%20AWS&descSize=15&descAlignY=58" width="100%" />
-
 # Hi 👋, I'm Srinivasan V
 
 <!-- Animated Typing SVG -->
